@@ -20,14 +20,14 @@ This site is built using **HTML**, **CSS**, and **JavaScript**, with a clean, mo
 
 ## 📸 Live Preview
 
-👉 [View Portfolio Online](https://yourusername.github.io/portfolio)  
+👉 [View Portfolio Online](https://github.com/Awais007khan/Portfolio-master)  
 _(Replace the link with your actual GitHub Pages link)_
 
 ## 📂 How to Use
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Awais007khan/Portfolio-master
 
 # Open index.html in your browser
 ```
